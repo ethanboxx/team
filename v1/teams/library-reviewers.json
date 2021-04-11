@@ -1,0 +1,129 @@
+{
+  "name": "library-reviewers",
+  "kind": "team",
+  "subteam_of": "libs",
+  "members": [
+    {
+      "name": "Taylor Cramer",
+      "github": "cramertj",
+      "github_id": 5963049,
+      "is_lead": false
+    },
+    {
+      "name": "David Tolnay",
+      "github": "dtolnay",
+      "github_id": 1940490,
+      "is_lead": false
+    },
+    {
+      "name": "Yuki Okushi",
+      "github": "JohnTitor",
+      "github_id": 25030997,
+      "is_lead": false
+    },
+    {
+      "name": "Josh Triplett",
+      "github": "joshtriplett",
+      "github_id": 162737,
+      "is_lead": false
+    },
+    {
+      "name": "kennytm",
+      "github": "kennytm",
+      "github_id": 103023,
+      "is_lead": false
+    },
+    {
+      "name": "Ashley Mannix",
+      "github": "KodrAus",
+      "github_id": 6721458,
+      "is_lead": false
+    },
+    {
+      "name": "Mara Bos",
+      "github": "m-ou-se",
+      "github_id": 783247,
+      "is_lead": false
+    },
+    {
+      "name": "Mark Rousskov",
+      "github": "Mark-Simulacrum",
+      "github_id": 5047365,
+      "is_lead": false
+    },
+    {
+      "name": "Steven Fackler",
+      "github": "sfackler",
+      "github_id": 1455697,
+      "is_lead": false
+    },
+    {
+      "name": "Jake Goulding",
+      "github": "shepmaster",
+      "github_id": 174509,
+      "is_lead": false
+    },
+    {
+      "name": "Jubilee",
+      "github": "workingjubilee",
+      "github_id": 46493976,
+      "is_lead": false
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Without Boats",
+      "github": "withoutboats",
+      "github_id": 9063376,
+      "is_lead": false
+    }
+  ],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "library-reviewers",
+        "members": [
+          103023,
+          162737,
+          174509,
+          783247,
+          1455697,
+          1940490,
+          5047365,
+          5963049,
+          6721458,
+          25030997,
+          46493976
+        ]
+      },
+      {
+        "org": "rust-lang-nursery",
+        "name": "library-reviewers",
+        "members": [
+          103023,
+          162737,
+          174509,
+          783247,
+          1455697,
+          1940490,
+          5047365,
+          5963049,
+          6721458,
+          25030997,
+          46493976
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Library reviewers",
+    "description": "Developing and reviewing changes to the Rust standard library",
+    "page": "library-reviewers",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "zulip_stream": null,
+    "weight": 0
+  }
+}

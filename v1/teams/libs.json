@@ -1,0 +1,109 @@
+{
+  "name": "libs",
+  "kind": "team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Amanieu d'Antras",
+      "github": "Amanieu",
+      "github_id": 278509,
+      "is_lead": false
+    },
+    {
+      "name": "Andrew Gallant",
+      "github": "BurntSushi",
+      "github_id": 456674,
+      "is_lead": false
+    },
+    {
+      "name": "David Tolnay",
+      "github": "dtolnay",
+      "github_id": 1940490,
+      "is_lead": false
+    },
+    {
+      "name": "Josh Triplett",
+      "github": "joshtriplett",
+      "github_id": 162737,
+      "is_lead": false
+    },
+    {
+      "name": "Mara Bos",
+      "github": "m-ou-se",
+      "github_id": 783247,
+      "is_lead": false
+    },
+    {
+      "name": "Steven Fackler",
+      "github": "sfackler",
+      "github_id": 1455697,
+      "is_lead": false
+    },
+    {
+      "name": "Simon Sapin",
+      "github": "SimonSapin",
+      "github_id": 291359,
+      "is_lead": false
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Ashley Mannix",
+      "github": "KodrAus",
+      "github_id": 6721458,
+      "is_lead": false
+    },
+    {
+      "name": "Lukas Kalbertodt",
+      "github": "LukasKalbertodt",
+      "github_id": 7419664,
+      "is_lead": false
+    },
+    {
+      "name": "Without Boats",
+      "github": "withoutboats",
+      "github_id": 9063376,
+      "is_lead": false
+    }
+  ],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "libs",
+        "members": [
+          162737,
+          278509,
+          291359,
+          456674,
+          783247,
+          1455697,
+          1940490
+        ]
+      },
+      {
+        "org": "rust-lang-nursery",
+        "name": "libs",
+        "members": [
+          162737,
+          278509,
+          291359,
+          456674,
+          783247,
+          1455697,
+          1940490
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Library team",
+    "description": "Developing and managing the Rust standard library, official rust-lang crates, code conventions, and ecosystem support",
+    "page": "library",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "zulip_stream": "t-libs",
+    "weight": 0
+  }
+}

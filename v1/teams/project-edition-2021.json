@@ -1,0 +1,49 @@
+{
+  "name": "project-edition-2021",
+  "kind": "project_group",
+  "subteam_of": "core",
+  "members": [
+    {
+      "name": "Mara Bos",
+      "github": "m-ou-se",
+      "github_id": 783247,
+      "is_lead": true
+    },
+    {
+      "name": "Niko Matsakis",
+      "github": "nikomatsakis",
+      "github_id": 155238,
+      "is_lead": true
+    },
+    {
+      "name": "Ryan Levick",
+      "github": "rylev",
+      "github_id": 1327285,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "project-edition-2021",
+        "members": [
+          155238,
+          783247,
+          1327285
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Edition 2021 Project Group",
+    "description": "Managing the Rust 2021 edition",
+    "page": "project-edition-2021",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "zulip_stream": "edition 2021",
+    "weight": 0
+  }
+}
